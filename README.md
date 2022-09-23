@@ -33,7 +33,7 @@ Sheet2 columns:
 - presentation: name of presentation
 - slides: name of slide
 - url: product image url
-- duration_sec: duration of visit
+- duration_sec: duration of showing each slide
 - like: attitude (1 - like, 0 - no reaction)
 - dislike: attitude (1 - dislike, 0 - no reaction)
 
