@@ -11,42 +11,42 @@ Visitors sales products (Furniture, Decoration, Lighting) to customers. Visitor 
 Sheet1 columns:
 - *call_id*: visit id
 - *date*: date of visit
-- visitor: visitor name
-- visit: type of visit (submitted or canceled)
-- city: visitor's sity
-- product: type of product Furniture, Decoration or Lighting
-- customer: customer name
-- plan: planned or not planned visit
-- base: type of base (Assigned base, Active base, Non-active base)
-- duration: duration of visit
+- *visitor*: visitor name
+- *visit*: type of visit (submitted or canceled)
+- *city*: visitor's sity
+- *product*: type of product Furniture, Decoration or Lighting
+- *customer*: customer name
+- *plan*: planned or not planned visit
+- *base*: type of base (Assigned base, Active base, Non-active base)
+- *duration*: duration of visit
 
 Sheet2 columns:
-- call_id: visit id
-- date: date of visit
-- visitor: visitor name
-- visit: type of visit (submitted or canceled)
-- city: visitor's sity
-- product: type of product Furniture, Decoration or Lighting
-- customer: customer name
-- plan: planned or not planned visit
-- base: type of base (Assigned base, Active base, Non-active base)
-- presentation: name of presentation
-- slides: name of slide
-- url: product image url
-- duration_sec: duration of showing each slide
-- like: attitude (1 - like, 0 - no reaction)
-- dislike: attitude (1 - dislike, 0 - no reaction)
+- *call_id*: visit id
+- *date*: date of visit
+- *visitor*: visitor name
+- *visit*: type of visit (submitted or canceled)
+- *city*: visitor's sity
+- *product*: type of product Furniture, Decoration or Lighting
+- *customer*: customer name
+- *plan*: planned or not planned visit
+- *base*: type of base (Assigned base, Active base, Non-active base)
+- *presentation*: name of presentation
+- *slides*: name of slide
+- *url*: product image url
+- *duration_sec*: duration of showing each slide
+- *like*: attitude (1 - like, 0 - no reaction)
+- *dislike*: attitude (1 - dislike, 0 - no reaction)
 
 Sheet3 columns:
-- visitor: visitor name
-- Active base: number of visits from Active Base
-- Assigned base: number of visits from Assigned Base
-- Non-active: number of visits from Non-active Base
-- base: type of base (Assigned base, Active base, Non-active base)
-- one_visit: number of customers with one visit
-- two_visits: number of customers with two or more visits
-- city: visitor's sity
-- product: type of product Furniture, Decoration or Lighting
+- *visitor*: visitor name
+- *Active base*: number of visits from Active Base
+- *Assigned base*: number of visits from Assigned Base
+- *Non-active*: number of visits from Non-active Base
+- *base*: type of base (Assigned base, Active base, Non-active base)
+- *one_visit*: number of customers with one visit
+- *two_visits*: number of customers with two or more visits
+- *city*: visitor's sity
+- *product*: type of product Furniture, Decoration or Lighting
 
 [Google Data Studio dashboard](https://datastudio.google.com/s/sXa_msaiDgk)
 
