@@ -1,5 +1,5 @@
-# google_data_studio_dash
-Example of two-pages dashboard in Google Data Studio
+## Google Data Studio dashboard
+Example of two-pages dashboard in Google Data Studio with random data
 
 * Random dataset created with Python in Google Colab using pandas, numpy, random, gspread libraries
 * Python script automatically saves Dataset to Google Sheets
