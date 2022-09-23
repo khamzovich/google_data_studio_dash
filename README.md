@@ -9,8 +9,8 @@ Example of two-pages dashboard in Google Data Studio with random data
 Visitors sales products (Furniture, Decoration, Lighting) to customers. Visitor shows presentations with slides to customers. We collect information about visit data, duration, attitude to slides etc.
 
 Sheet1 columns:
-- call_id: visit id
-- date: date of visit
+- *call_id*: visit id
+- *date*: date of visit
 - visitor: visitor name
 - visit: type of visit (submitted or canceled)
 - city: visitor's sity
